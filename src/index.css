@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    font-family: 'Rajdhani', 'Pretendard', system-ui, sans-serif;
+  }
+
+  body {
+    background-color: #05060a;
+    color: #e2e8f0;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: none;
+  }
+}
+
+.font-orbitron {
+  font-family: 'Orbitron', monospace, sans-serif;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

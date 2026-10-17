@@ -1,0 +1,6 @@
+{
+  "name": "CYBER CORE 3D: SURVIVOR",
+  "description": "Three.js 기반의 60FPS 사이버펑크 3D 액션 서바이버 아케이드 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
